@@ -1,5 +1,4 @@
 # Hi there, I'm Nihad 👋
-
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer+from+Azerbaijan;Backend+Development+Specialist;Open+Source+Enthusiast)](https://git.io/typing-svg)
@@ -7,7 +6,6 @@
 </div>
 
 ## 🚀 About Me
-
 I'm a passionate software engineer based in Azerbaijan, specializing in backend development with a strong focus on building scalable and efficient systems. I love solving complex problems and continuously learning new technologies.
 
 ## 💻 Tech Stack
@@ -24,15 +22,18 @@ I'm a passionate software engineer based in Azerbaijan, specializing in backend 
 
 ### Frameworks & Technologies
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-```
 
 ## 🔥 Core Competencies
-
 - **Primary**: PHP, Laravel Framework
 - **Systems Programming**: C, C++
 - **General Purpose**: Java, Python
@@ -41,7 +42,6 @@ I'm a passionate software engineer based in Azerbaijan, specializing in backend 
 - **Database Management**: MySQL, MariaDB, PostgreSQL
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nihad1213&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
@@ -55,20 +55,10 @@ I'm a passionate software engineer based in Azerbaijan, specializing in backend 
 </div>
 
 ## 🌟 Featured Projects
-
 Check out my repositories to see what I've been working on! All my projects showcase practical implementations and clean code practices.
 
 ## 📫 Let's Connect
-
 - 📧 Email: [nihad.nemetli@gmail.com](mailto:nihad.nemetli@gmail.com)
 - 💼 GitHub: [@nihad1213](https://github.com/nihad1213)
 
 ---
-
-<div align="center">
-  
-  **💬 "Code is like humor. When you have to explain it, it's bad." – Cory House**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=nihad1213&color=blueviolet&style=flat-square)
-  
-</div>
