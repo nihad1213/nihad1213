@@ -29,15 +29,6 @@ I'm a passionate software engineer based in Azerbaijan, specializing in backend 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 🎯 Expertise
-
-```text
-Backend Development  ████████████████████████░   95%
-PHP/Laravel          ████████████████████████░   95%
-System Programming   ███████████████████░░░░░   85%
-Database Design      ████████████████████░░░░   80%
-Scripting            ██████████████████░░░░░░   75%
 ```
 
 ## 🔥 Core Competencies
@@ -71,13 +62,6 @@ Check out my repositories to see what I've been working on! All my projects show
 
 - 📧 Email: [nihad.nemetli@gmail.com](mailto:nihad.nemetli@gmail.com)
 - 💼 GitHub: [@nihad1213](https://github.com/nihad1213)
-
-## 💡 Current Focus
-
-- Building robust backend systems with Laravel
-- Exploring modern architectures and design patterns
-- Contributing to open source projects
-- Continuous learning and skill enhancement
 
 ---
 
