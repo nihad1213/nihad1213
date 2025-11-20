@@ -44,22 +44,6 @@ I'm a passionate software engineer based in Azerbaijan, specializing in backend 
 - **Exploring**: Ruby, Go
 - **Database Management**: MySQL, MariaDB, PostgreSQL
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihad1213&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihad1213&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihad1213&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🌟 Featured Projects
-Check out my repositories to see what I've been working on! All my projects showcase practical implementations and clean code practices.
-
 ## 📫 Let's Connect
 - 📧 Email: [nihad.nemetli@gmail.com](mailto:nihad.nemetli@gmail.com)
 - 💼 GitHub: [@nihad1213](https://github.com/nihad1213)
