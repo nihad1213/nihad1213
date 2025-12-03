@@ -40,7 +40,7 @@ I'm a passionate software engineer based in Azerbaijan, specializing in backend 
 *Working with SDL, OpenGL, and other graphics libraries*
 
 ###  Experimenting With
-**Languages I explore in my free time:**
+**Languages and frameworks I explore in my free time:**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
