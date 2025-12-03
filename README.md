@@ -5,12 +5,12 @@
   
 </div>
 
-## 🚀 About Me
+##  About Me
 I'm a passionate software engineer based in Azerbaijan, specializing in backend development with a strong focus on building scalable and efficient systems. I love solving complex problems and continuously learning new technologies.
 
-## 💻 Tech Stack
+##  Tech Stack
 
-### 🎯 Proficient In
+###  Proficient In
 **Languages & Frameworks I work with daily:**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -21,7 +21,7 @@ I'm a passionate software engineer based in Azerbaijan, specializing in backend 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Can Work With (Some Guidance)
+###  Can Work With (Some Guidance)
 **Technologies I'm comfortable using with documentation:**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,7 +30,7 @@ I'm a passionate software engineer based in Azerbaijan, specializing in backend 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🌱 Currently Learning
+###  Currently Learning
 **Systems programming with graphics libraries:**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -39,14 +39,14 @@ I'm a passionate software engineer based in Azerbaijan, specializing in backend 
 
 *Working with SDL, OpenGL, and other graphics libraries*
 
-### 🧪 Experimenting With
+###  Experimenting With
 **Languages I explore in my free time:**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
