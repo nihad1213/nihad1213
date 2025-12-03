@@ -51,12 +51,8 @@ I'm a passionate software engineer based in Azerbaijan, specializing in backend 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📫 Let's Connect
+##  Let's Connect
 - 📧 Email: [nihad.nemetli@gmail.com](mailto:nihad.nemetli@gmail.com)
 - 💼 GitHub: [@nihad1213](https://github.com/nihad1213)
 
 ---
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/nihad1213">nihad1213</a></i>
-</div>
