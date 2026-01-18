@@ -21,6 +21,7 @@ I'm a passionate software engineer based in Azerbaijan, specializing in backend 
 
 ###  Can Work With (Some Guidance)
 **Technologies I'm comfortable using with documentation:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
